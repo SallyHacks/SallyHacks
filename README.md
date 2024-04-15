@@ -1,13 +1,20 @@
-Hello, I am Sally :)
+![](https://github.com/SallyOsint/SallyOsint/blob/main/ezgif-7-c69eb27144.gif)
 
-I am the frontend developer of osintcat.com. I also handle all marketing and customer success!
+# HTML / CSS / JAVASCRIPT / PYTHON
 
-osintcat.com was my first-ever frontend development project. All of my other repositories are private and unavailable for view at this time.
+> ### https://osintcat.com | https://discord.gg/osintcat
+> 
+> All of my other repositories has been made private at this time.
+> 
 
-If you wish to contact me, my email is sally@osintcat.com and my Discord is sallyosint :)
+## Contact me!
+> Discord: OsintSally
+> 
+> Email: sally@osintcat.com
 
-
-<!---
-SallyOsint/SallyOsint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Fun facts about me:
+> I have never worked on any other frontend development project other than OsintCat. I can't stress enough how proud I am of that.
+>
+> I absolutely love cats!
+> 
+> I really love linux, I run Garuda Cinnamon and I would love to post repos for widgets here in the future! 
