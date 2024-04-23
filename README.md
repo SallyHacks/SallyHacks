@@ -1,5 +1,3 @@
-![](https://github.com/SallyOsint/SallyOsint/blob/main/ezgif-7-c69eb27144.gif)
-
 ## .htm / .html / .js / .py / .css 
 
 > ### https://osintcat.com | https://discord.gg/osintcat
